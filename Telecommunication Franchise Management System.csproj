@@ -46,14 +46,244 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddSimForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSimForm.Designer.cs">
+      <DependentUpon>AddSimForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminBalanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminBalanceForm.Designer.cs">
+      <DependentUpon>AdminBalanceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminEmoneyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminEmoneyForm.Designer.cs">
+      <DependentUpon>AdminEmoneyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminMain.Designer.cs">
+      <DependentUpon>AdminMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\Admin.cs" />
+    <Compile Include="BL\ComplainClass.cs" />
+    <Compile Include="BL\Customer.cs" />
+    <Compile Include="BL\MUser.cs" />
+    <Compile Include="BL\sim.cs" />
+    <Compile Include="BL\Worker.cs" />
+    <Compile Include="CustomerBalanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerBalanceForm.Designer.cs">
+      <DependentUpon>CustomerBalanceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerBuySimsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerBuySimsForm.Designer.cs">
+      <DependentUpon>CustomerBuySimsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerCareForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerCareForm.Designer.cs">
+      <DependentUpon>CustomerCareForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerEmoneyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerEmoneyForm.Designer.cs">
+      <DependentUpon>CustomerEmoneyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerEmoneyRecharge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerEmoneyRecharge.Designer.cs">
+      <DependentUpon>CustomerEmoneyRecharge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerMainForm.Designer.cs">
+      <DependentUpon>CustomerMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerRecharge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerRecharge.Designer.cs">
+      <DependentUpon>CustomerRecharge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerSimForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerSimForm.Designer.cs">
+      <DependentUpon>CustomerSimForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayComplainReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayComplainReport.Designer.cs">
+      <DependentUpon>DisplayComplainReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayCustomerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayCustomerProfile.Designer.cs">
+      <DependentUpon>DisplayCustomerProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayWorkers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayWorkers.Designer.cs">
+      <DependentUpon>DisplayWorkers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DL\ComplainsDL.cs" />
+    <Compile Include="DL\CustomerDL.cs" />
+    <Compile Include="DL\MUserDL.cs" />
+    <Compile Include="DL\SimsDL.cs" />
+    <Compile Include="DL\WorkerDL.cs" />
+    <Compile Include="EditBalanceApprovalAmount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditBalanceApprovalAmount.Designer.cs">
+      <DependentUpon>EditBalanceApprovalAmount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditCustomerProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditCustomerProfile.Designer.cs">
+      <DependentUpon>EditCustomerProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditSimData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditSimData.Designer.cs">
+      <DependentUpon>EditSimData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditUserForm.Designer.cs">
+      <DependentUpon>EditUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmoneyAprovalAmountChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmoneyAprovalAmountChange.Designer.cs">
+      <DependentUpon>EmoneyAprovalAmountChange.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="AddWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddWorker.Designer.cs">
+      <DependentUpon>AddWorker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForm.Designer.cs">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUpForm.Designer.cs">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SimsDisplayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimsDisplayForm.Designer.cs">
+      <DependentUpon>SimsDisplayForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewWorkers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewWorkers.Designer.cs">
+      <DependentUpon>ViewWorkers.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddSimForm.resx">
+      <DependentUpon>AddSimForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminBalanceForm.resx">
+      <DependentUpon>AdminBalanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminEmoneyForm.resx">
+      <DependentUpon>AdminEmoneyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminMain.resx">
+      <DependentUpon>AdminMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerBalanceForm.resx">
+      <DependentUpon>CustomerBalanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerBuySimsForm.resx">
+      <DependentUpon>CustomerBuySimsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerCareForm.resx">
+      <DependentUpon>CustomerCareForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerEmoneyForm.resx">
+      <DependentUpon>CustomerEmoneyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerEmoneyRecharge.resx">
+      <DependentUpon>CustomerEmoneyRecharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerMainForm.resx">
+      <DependentUpon>CustomerMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerRecharge.resx">
+      <DependentUpon>CustomerRecharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerSimForm.resx">
+      <DependentUpon>CustomerSimForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DisplayComplainReport.resx">
+      <DependentUpon>DisplayComplainReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DisplayCustomerProfile.resx">
+      <DependentUpon>DisplayCustomerProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DisplayWorkers.resx">
+      <DependentUpon>DisplayWorkers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditBalanceApprovalAmount.resx">
+      <DependentUpon>EditBalanceApprovalAmount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditCustomerProfile.resx">
+      <DependentUpon>EditCustomerProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditSimData.resx">
+      <DependentUpon>EditSimData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUserForm.resx">
+      <DependentUpon>EditUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmoneyAprovalAmountChange.resx">
+      <DependentUpon>EmoneyAprovalAmountChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddWorker.resx">
+      <DependentUpon>AddWorker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogInForm.resx">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -62,7 +292,19 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="SignUpForm.resx">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimsDisplayForm.resx">
+      <DependentUpon>SimsDisplayForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewWorkers.resx">
+      <DependentUpon>ViewWorkers.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -75,6 +317,39 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18837429041582692250-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13508784371553239378-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashless-payment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashless-payment1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sim-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\project-manager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

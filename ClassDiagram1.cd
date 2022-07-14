@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Telecommunication_Franchise_Management_System.AddSimForm" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBgAAAQAASAQABAAAACAAIACIAAACAAAAAAAAQAAAAA=</HashCode>
+      <FileName>AddSimForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.AddWorkerForm" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAARAACAUABAAAACZCIAGIAAAAgAAAAAAAQAAAgA=</HashCode>
+      <FileName>AddWorker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.AdminBalanceForm" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACAABACBAAAAAAACAAAACAgAAAAAAAAAACAAAACA=</HashCode>
+      <FileName>AdminBalanceForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.AdminEmoneyForm" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAEAABACBAAAAACACAAAACAAAAAAAAAAABAAAAACA=</HashCode>
+      <FileName>AdminEmoneyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.AdminMainForm" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBAYCEIACQABBAAAQCACAACASIIIAADAFAJIQBQACA=</HashCode>
+      <FileName>AdminMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.CustomerBalanceForm" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAgABAAACCACAACAAAAAAAAAAAAAQAAAEA=</HashCode>
+      <FileName>CustomerBalanceForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.CustomerBuySimsForm" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAABAAEACAAAACAAAAAAAAAAAAAQAAAAE=</HashCode>
+      <FileName>CustomerBuySimsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.CustomerCareForm" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAABACAAAAIAAAAAAAAQAABAA=</HashCode>
+      <FileName>CustomerCareForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.CustomerEmoneyForm" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAACCACAACAAAAAAAAAAAAAQAAAEA=</HashCode>
+      <FileName>CustomerEmoneyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.CustomerEmoneyRecharge" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAACAAAACAAABAAAACACAACAAAIAAAAAEAAAQAAAAA=</HashCode>
+      <FileName>CustomerEmoneyRecharge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.CustomerMainForm" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQCFIACAAAJAAAADACAACASIJIAAAAVAJISBQAAA=</HashCode>
+      <FileName>CustomerMainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.CustomerRecharge" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAAgBAAAACACAACAAAIAAAAAEAAAQAAAAA=</HashCode>
+      <FileName>CustomerRecharge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.CustomerSimForm" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAIAAEAAAQAAAEE=</HashCode>
+      <FileName>CustomerSimForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.DisplayComplainReport" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACABABAAAACAAAACAAAAAAAAAAAAAQAAAiA=</HashCode>
+      <FileName>DisplayComplainReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.DisplayCustomerProfile" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAQQQABCAABBAAAACAACACAgAAAAAgAAAAAQAAEAI=</HashCode>
+      <FileName>DisplayCustomerProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.DisplayWorkers" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACABAAAAAACAAAACgIEAAAgCAEAAAAAAACg=</HashCode>
+      <FileName>DisplayWorkers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.EditBalanceApprovalAmount" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAQABAAAAKAAAACAAAIAAAACEAAAQBAAAA=</HashCode>
+      <FileName>EditBalanceApprovalAmount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.EditCustomerProfile" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQQAACAAABAAAACQCAAGAgAAAAAAAAAAAQAAAhA=</HashCode>
+      <FileName>EditCustomerProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.EditSimData" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBgAAAAAACAQABAAAACEIAAKAQAACAAAAAAAAQAAAAQ=</HashCode>
+      <FileName>EditSimData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.EditUserForm" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAAAQQACAAABAAAACACAAGEAAAAAAAAUAQAQAAAgA=</HashCode>
+      <FileName>EditUserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.EmoneyAprovalAmountChangeForm" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAQABAAAACAAAACAAAAAAAACAAAAQBAAAA=</HashCode>
+      <FileName>EmoneyAprovalAmountChange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.Form1" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAIAAAAAAAAAQgAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.LogInForm" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MBAAIhAAACAAAhACAASCSAAGAAAgIAAAAEAAAYBAACA=</HashCode>
+      <FileName>LogInForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.SignUpForm" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAAAQAACAAABAAAACAAABCIAAYAAAAEEAAAQBAAAA=</HashCode>
+      <FileName>SignUpForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.SimsDisplayForm" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAAAiAAAACAAEIIAACAEAAARAAACA=</HashCode>
+      <FileName>SimsDisplayForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.ViewWorkers" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>ViewWorkers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.BL.Admin">
+    <Position X="8" Y="16.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.BL.ComplainClass">
+    <Position X="6.25" Y="7.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAQ=</HashCode>
+      <FileName>BL\ComplainClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.BL.Customer">
+    <Position X="8.25" Y="15" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.BL.MUser">
+    <Position X="11.25" Y="15.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>kAACABAAAgACAAAAEggAABQIAAAEAAgCAAAAAoAAAAA=</HashCode>
+      <FileName>BL\MUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.BL.sim">
+    <Position X="12" Y="7.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAQAAAAEAAAAAAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BL\sim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.BL.Worker">
+    <Position X="14.5" Y="16" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAQAAAAAAAAAAAAQAAAAAAABAAAA=</HashCode>
+      <FileName>BL\Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.DL.ComplainsDL">
+    <Position X="9.25" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAASAAAAAAAAAAAAAACQAAAAAAAACAAAAAAAAAE=</HashCode>
+      <FileName>DL\ComplainsDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="complainsList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.DL.CustomerDL">
+    <Position X="14.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABCAAAEAAAAAAIAYAAIAEAAEAAAAAAAAAAAAABA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="customerList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.DL.MUserDL">
+    <Position X="16.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACACCCAAEAAAAAIAABgAAAAAAEAAQCAAAAAAEAAAg=</HashCode>
+      <FileName>DL\MUserDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Users" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.DL.SimsDL">
+    <Position X="14.5" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAACAFAAAAABAAQAAAAAACAAQAAgAACAAAAAAA=</HashCode>
+      <FileName>DL\SimsDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="simsList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.DL.WorkerDL">
+    <Position X="6.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEUAEAAABBAAAAAAAAAAACAAAAAAAAAIAAA=</HashCode>
+      <FileName>DL\WorkerDL.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="workersList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.Properties.Resources" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAMAAAAAhAAAACAAAAJEAAIAQAAAAAAIAAkAEAAEIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telecommunication_Franchise_Management_System.Properties.Settings" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
