@@ -30,6 +30,7 @@ namespace Telecommunication_Franchise_Management_System
         {
             Form form = new CustomerBuySimsForm();
             form.ShowDialog();
+
         }
     }
 }
